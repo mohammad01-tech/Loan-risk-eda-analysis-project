@@ -1,0 +1,41 @@
+# =====================================
+# DATA & DATABASES (Heavy or Sensitive)
+# =====================================
+data/
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+*.parquet
+
+# =====================================
+# PYTHON & JUPYTER NOTEBOOKS
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# =====================================
+# ENVIRONMENT & SECRETS
+# =====================================
+.env
+credentials.json
+secrets.toml
+
+# =====================================
+# OPERATING SYSTEM FILES
+# =====================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# =====================================
+# BUSINESS INTELLIGENCE & CACHE
+# =====================================
+*.bak
+*.tmp
