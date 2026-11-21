@@ -63,15 +63,15 @@ Credit history vs loan approval:
 
 Dependents vs loan approval. Approval rates across 0/1/2/3 dependents (68.6% / 64.7% / 75.3% / 64.7%) show no clean pattern, and a chi-square test finds no significant association (p = 0.37). An earlier version of this README claimed that applicants with no dependents have higher approval rates; that claim did not survive testing and was dropped.
 
-![Dependents vs loan approval](images\dependents_vs_loan.png)
+![Dependents vs loan approval](images/dependents_vs_loan.png)
 
 Property area vs loan approval (Semiurban 76.8% > Urban 65.8% > Rural 61.5%):
 
-![Property area vs loan approval](images\ppt_vs_loan.png)
+![Property area vs loan approval](images/ppt_vs_loan.png)
 
 Education vs loan approval (nominally significant at p = 0.043, but this does not survive multiple-comparison correction; see below):
 
-![Education vs loan approval](images\edu_vs_loan.png)
+![Education vs loan approval](images/edu_vs_loan.png)
 
 ### Multivariate
 
